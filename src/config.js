@@ -1,4 +1,5 @@
 const config = {
+    STRIPE_KEY: "pk_test_kVncSDjpaXlp4NPmHJyIQFv400OMOIW7tw",
     s3: {
         REGION: "us-east-1",
         BUCKET: "svrless-notes-app-upload",
